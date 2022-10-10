@@ -1,8 +1,10 @@
+
+
 .row{
     padding: 20px;
 }
 div{
-    background-color: rgb(225, 196, 240);
+    background-color: #04101A ;
     text-align: center;
 }
 
@@ -13,7 +15,7 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px grey;
         left: 2%;
-        top: 550px;
+        top: 400px;
     }
 }
 
@@ -24,12 +26,12 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px grey;
         left: 33%;
-        top: 630px;
+        top: 500px;
     }
 }
 
 #nombre {
     font-weight: bold;
-    margin-top: 30%;
+    margin-top: 10%;
     
 }

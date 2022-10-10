@@ -1,0 +1,20 @@
+.row {
+    padding: 20px;
+    background-color: #04101A ;
+    flex-direction: column;
+    text-align: initial;
+    box-shadow: 2px 0px 5px #999
+}
+.contenedor{
+    width: auto;
+}
+.parte1, .parte2{
+    display: inline-block;
+    text-align: justify;
+}
+.img-proyecto{ 
+    box-shadow: 10px 10px 10px #999; }
+
+    h3, p{
+        
+    }
